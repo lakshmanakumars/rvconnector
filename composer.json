@@ -1,7 +1,7 @@
 {
   "name": "lakshmanakumars/rvconnector",
   "description": "Another Asterisk connector for Vtiger",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "Apache2",
   "authors": [
     {
