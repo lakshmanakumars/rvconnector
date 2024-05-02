@@ -22,5 +22,9 @@
       "events\\": "events/",
       "classes\\" : "classes/"
     }
-  }
+  },
+      "config": {
+        "sort-packages": true
+    }
+  
 }
