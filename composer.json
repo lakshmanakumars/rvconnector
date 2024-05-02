@@ -1,8 +1,12 @@
 {
   "name": "lakshmanakumars/rvconnector",
   "description": "Another Asterisk connector for Vtiger",
-  "minimum-stability": "dev",
   "license": "Apache2",
+  "homepage": "https://github.com/lakshmanakumars/rvconnector",
+  "keywords": [
+        "lakshmanakumars",
+        "rvconnector"
+ ],
   "authors": [
     {
       "name": "Eugene Karachkovsky",
